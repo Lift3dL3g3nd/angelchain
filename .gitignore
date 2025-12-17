@@ -1,0 +1,7 @@
+# Private working drafts (never committed)
+_private_work/
+
+# OS / editor artifacts
+.DS_Store
+*.swp
+*.log
